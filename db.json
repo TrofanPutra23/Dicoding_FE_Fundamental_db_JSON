@@ -2,15 +2,15 @@
   "perusahaan": [
       {
     "id": 1,
-    "nama": "Shoppe",
-    "gambar": "img/Shoope.jpg",
+    "nama": "Shopee",
+    "gambar": "img/Shopee.jpg",
     "link": "https://www.dicoding.com"
   },
     {
     "id": 2,
     "nama": "Dicoding",
-    "gambar": "img/Dicoding.jpg",
-    "link": "https://www.dicoding.com/"
+    "gambar": "img/Dicoding.png",
+    "link": "https://www.dicoding.com"
   },
     {
     "id": 3,
@@ -19,10 +19,10 @@
     "link": "https://www.grab.com"
   },
       {
-    "id": 4,
-    "nama": "Shopee",
-    "gambar": "img/Shopee.jpg",
-    "link": "https://shopee.com"
+    "id":4,
+    "nama": "Glints",
+    "gambar": "img/Glints.jpg",
+    "link": "https://glints.com"
   },  {
     "id": 5,
     "nama": "Hacktiv8",
@@ -47,17 +47,17 @@
     "id": 9,
     "nama": "Zenius",
     "gambar": "img/Zenius.jpg",
-    "link": "https://www.zenius.net/"
+    "link": "https://www.zenius.net"
   },  {
     "id": 10,
     "nama": "Binar Academy",
     "gambar": "img/BinarAcademy.jpg",
-    "link": "https://www.binaracademy.com/"
+    "link": "https://www.binaracademy.com"
   }, {
     "id": 11,
     "nama": "Telkomsel",
     "gambar": "img/Telkomsel.jpg",
-    "link": "https://www.telkomsel.com/"
+    "link": "https://www.telkomsel.com"
   },
     {
     "id": 12,
