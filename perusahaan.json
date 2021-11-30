@@ -9,7 +9,7 @@
     {
     "id": 2,
     "nama": "Dicoding",
-    "gambar": "img/Dicoding.jpg",
+    "gambar": "img/Dicoding.png",
     "link": "https://www.dicoding.com/"
   },
     {
@@ -20,9 +20,9 @@
   },
       {
     "id":4,
-    "nama": "Shopee",
-    "gambar": "img/Shopee.jpg",
-    "link": "https://shopee.com"
+    "nama": "Glints",
+    "gambar": "img/Glints.jpg",
+    "link": "https://glints.com/"
   },  {
     "id": 5,
     "nama": "Hacktiv8",
