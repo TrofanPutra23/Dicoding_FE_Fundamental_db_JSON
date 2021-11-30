@@ -21,7 +21,7 @@
       {
     "id":4,
     "nama": "Glints",
-    "gambar": "img/Glints.jpg",
+    "gambar": "img/Glints.png",
     "link": "https://glints.com"
   },  {
     "id": 5,
@@ -36,7 +36,7 @@
   },  {
     "id": 7,
     "nama": "XL",
-    "gambar": "img/XL.jpg",
+    "gambar": "img/XL.png",
     "link": "https://www.xl.co.id/id"
   },  {
     "id": 8,
