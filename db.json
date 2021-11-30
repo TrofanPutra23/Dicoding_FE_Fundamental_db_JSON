@@ -19,7 +19,7 @@
     "link": "https://www.grab.com"
   },
       {
-    "id":4,
+    "id": 4,
     "nama": "Shopee",
     "gambar": "img/Shopee.jpg",
     "link": "https://shopee.com"
@@ -66,7 +66,7 @@
     "link": "https://www.tokopedia.com"
   },
     {
-    "id": 12,
+    "id": 13,
     "nama": "Traveloka",
     "gambar": "img/Traveloka.jpg",
     "link": "https://www.traveloka.com"
