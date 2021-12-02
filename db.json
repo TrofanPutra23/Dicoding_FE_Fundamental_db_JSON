@@ -51,7 +51,7 @@
   },  {
     "id": 10,
     "nama": "Binar Academy",
-    "gambar": "img/BinarAcademy.jpg",
+    "gambar": "https://github.com/TrofanPutra23/Dicoding_FE_Fundamental_db_JSON/blob/main/BinarAcademy.jpg",
     "link": "https://www.binaracademy.com"
   }, {
     "id": 11,
